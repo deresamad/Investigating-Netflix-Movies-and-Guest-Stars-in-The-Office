@@ -1,8 +1,10 @@
 # Investigating-Netflix-Movies-and-Guest-Stars-using-python
 
-This project is an ehibition of my skills in using Python for Data analysis to manipulate and gather insights from data.
+This project is an exhibition of my skills in using Python for Data analysis to manipulate and gather insights from data.
 The data used in this project is provided by **Data Camp**. The python codes were run in jupyter notebook.
 ![](netflix_intro.jpg)
 Netflix! What started in 1997 as a DVD rental service has since exploded into the 
 largest entertainment/media company by market capitalization, boasting over 200 million subscribers as of January 2021.
+Given the large number of movies and series available on the platform, 
+it is a perfect opportunity to flex our data manipulation skills and dive into the entertainment industry
 
